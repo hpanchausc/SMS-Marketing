@@ -27,9 +27,9 @@ This is a 3-month project which is currently in its final stages of development.
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+[ INSERT SCREEN SHOT HERE ]
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+[ INSERT SCREEN SHOT HERE ]
 
 ## Installation and Setup Instructions
 
