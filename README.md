@@ -72,3 +72,9 @@ $ npm run dev
 *   Stripe API
 *   Twilio API
 
+## Reflection
+This was a 3-month long project that I undertook this summer while I was learning Node.js and React.js. I wanted to create a web-application to put my full-stack knowledge to test. Previously, I had worked on a project Twilio API's to send text messages and analyze feedback (https://github.com/hpanchausc/MarketingAI). But I wanted to improve on it and create an interactive dashboard for users to send custom messages and store feedback in a database. Later, when learning React from an Udemy course by Stephen Grider(https://www.udemy.com/node-with-react-fullstack-web-development/), I found inspiration from his project Emaily(https://github.com/StephenGrider/FullstackReactCode), where he creates a feedback collection app using emails. I saw the similarities between this and my Twilio project, and decided to modify this project by sending text messages instead of emails and analyzing message responses for positive/negative feedback rather than hardcoded feedback. While creating this project I learnt a lot of things such as:
+*   Architecture of a full stack application and how to write production level code
+*   Communicate data between React and MongoDB
+*   Using Stripe API for payments, Google OAuth for authentication, and Twilio API for sending & recieving text messages
+*   Using Redux-form for user inputs
