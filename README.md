@@ -63,5 +63,12 @@ $ npm run dev
 
 1st) Inside the config directory, rename example.dev.js to dev.js and insert your credentials for google OAuth, Mongo Atlas, Stripe and Twilio
 
-
+## Tech Stack
+*   Node.js, Express.js, Passport.js
+*   React.js, React-Redux, Redux-form
+*   MongoDB, Mongoose
+*   Materialize CSS
+*   Google OAuth2
+*   Stripe API
+*   Twilio API
 
