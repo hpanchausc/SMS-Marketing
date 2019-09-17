@@ -55,7 +55,7 @@ $ npm run dev
 
 #### Before executing it, setting credentials and variables must be updated
 
-1st) Inside the config directory, create a file called dev.js and insert your credentials for google OAuth, Mongo Atlas, Stripe and Twilio
+1st) Inside the config directory, rename example.dev.js to dev.js and insert your credentials for google OAuth, Mongo Atlas, Stripe and Twilio
 
 
 
