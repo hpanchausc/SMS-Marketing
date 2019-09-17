@@ -21,7 +21,13 @@ This is a 3-month project which is currently in its final stages of development.
 ### 3. Admin creates a new survey by going to the link: /surveys/new. 
 *   This page presents a form where the admin can enter the subject title, body, and recipient list (phone numbers)
 
-### 4. Send text message to list of recipients
+### 4. Application sends text message to list of recipients.
+
+### 5. Recipient responds to text message to give feedback. 
+
+### 6.Feedback recorded in the MongoDB database as positive/negative (or yes/no). 
+
+### 5. Admin can see all the the sent surveys and their responses (Positive/negative feedback).
 
 ## Project Screen Shot(s)
 
