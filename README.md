@@ -33,8 +33,19 @@ This is a 3-month project which is currently in its final stages of development.
 
 #### Example:   
 
+Landing Page (User logged in):
 [ INSERT SCREEN SHOT HERE ]
 
+Purchase credits using Stripe:
+[ INSERT SCREEN SHOT HERE ]
+
+Survey form with validation:
+[ INSERT SCREEN SHOT HERE ]
+
+Recorded Surveys with feedback:
+[ INSERT SCREEN SHOT HERE ]
+
+Phone screenshot:
 [ INSERT SCREEN SHOT HERE ]
 
 ## Installation and Setup Instructions
