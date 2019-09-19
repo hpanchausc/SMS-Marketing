@@ -45,10 +45,10 @@ Purchasing credits using Stripe (5$ for 5 SMS credits):
 Survey form with validation:
 ![Optional Text](../master/survey.png)
 
-Phone screenshot:
+Phone screenshot(Feedback given by user analyzed with sentiment analysis, and result is recorded in database as Positive/Negative):
 ![Optional Text](../master/phone-2.png)
 
-Recorded Surveys with feedback:
+Recorded Surveys with feedback(Positive feedback from user recorded):
 ![Optional Text](../master/result.png)
 
 
