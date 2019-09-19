@@ -34,16 +34,16 @@ This is a 3-month project which is currently in its final stages of development.
 #### Example:   
 
 Landing Page (User not logged in):
-![Optional Text](../master/landing-not-logged.png)
+![Optional Text](../master/landing-not-logged-2.png)
 
 Landing Page (User logged in. Shows purchased credits):
-![Optional Text](../master/landing-logged.png)
+![Optional Text](../master/landing-logged-2.png)
 
 Purchasing credits using Stripe (5$ for 5 SMS credits):
 ![Optional Text](../master/buy-credits.png)
 
 Survey form with validation:
-![Optional Text](../master/survey.png)
+![Optional Text](../master/survey-2.png)
 
 Phone screenshot(Feedback given by user analyzed with sentiment analysis, and result is recorded in database as Positive/Negative):
 ![Optional Text](../master/phone-2.png)
