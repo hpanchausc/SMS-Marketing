@@ -46,7 +46,7 @@ Survey form with validation:
 ![Optional Text](../master/survey.png)
 
 Phone screenshot:
-![Optional Text](../master/phone.png)
+![Optional Text](../master/phone-2.png)
 
 Recorded Surveys with feedback:
 ![Optional Text](../master/result.png)
