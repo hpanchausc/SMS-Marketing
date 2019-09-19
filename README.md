@@ -33,20 +33,24 @@ This is a 3-month project which is currently in its final stages of development.
 
 #### Example:   
 
-Landing Page (User logged in):
-[ INSERT SCREEN SHOT HERE ]
+Landing Page (User not logged in):
+![Optional Text](../master/landing-not-logged.png)
 
-Purchase credits using Stripe:
-[ INSERT SCREEN SHOT HERE ]
+Landing Page (User logged in. Shows purchased credits):
+![Optional Text](../master/landing-logged.png)
+
+Purchasing credits using Stripe (5$ for 5 SMS credits):
+![Optional Text](../master/buy-credits.png)
 
 Survey form with validation:
-[ INSERT SCREEN SHOT HERE ]
-
-Recorded Surveys with feedback:
-[ INSERT SCREEN SHOT HERE ]
+![Optional Text](../master/survey.png)
 
 Phone screenshot:
-[ INSERT SCREEN SHOT HERE ]
+![Optional Text](../master/phone.png)
+
+Recorded Surveys with feedback:
+![Optional Text](../master/result.png)
+
 
 ## Installation and Setup Instructions
 
