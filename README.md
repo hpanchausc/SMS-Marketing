@@ -8,10 +8,6 @@
 *   Record positive/negative feedback on backend server.
 *   Technologies Used: React, Node.JS, MongoDBAtlas, Heroku, Stripe, Twilio, Google OAuth 2.0.
 
-## Project Status
-
-This is a 3-month project which is currently in its final stages of development. The only feature left to implement is to integrate webhooks in order to record positive/negative feedack of each customer in the database.
-
 ## Flow of Application
 
 ### 1. Admin signs up via Google OAuth
