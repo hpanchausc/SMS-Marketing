@@ -2,7 +2,6 @@
 
 #### Description:
 
-*   Technologies Used: React, Node.JS, MongoDBAtlas, Heroku, Stripe, Twilio, Google OAuth 2.0.
 *   Developed an interactive web application that sends surveys through text messages for the purpose of analyzing feedback
 *   Manage credit cards and receive payments from administrators through Stripe
 *   Applied sentiment analysis to analyze survey responses and recorded positive/negative feedback on backend server
